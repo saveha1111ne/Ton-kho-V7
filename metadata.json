@@ -1,0 +1,8 @@
+{
+  "name": "He Thong Quan Ly Kho Team CIC",
+  "description": "Hệ thống quản lý hàng tồn kho chuyên nghiệp đa chi nhánh theo tháng - Made by Ha Nhung Logistic",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
